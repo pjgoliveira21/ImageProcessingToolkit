@@ -1,2 +1,14 @@
-# ImageProcessingToolkit
-GUI HSV color segmentation and perspective transformation tool built with Python, OpenCV, and Tkinter.
+# AppPI (Modular)
+
+Reestruturação do script original para uma arquitetura modular.
+
+## Requisitos
+- Python 3.10+
+- opencv-python
+- numpy
+- Pillow
+
+## Execução
+```bash
+python main.py
+```
